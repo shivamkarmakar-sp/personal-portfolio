@@ -1,2 +1,2 @@
 # personal-portfolio
-just an portfolio for a practice
+just a portfolio for a practice
